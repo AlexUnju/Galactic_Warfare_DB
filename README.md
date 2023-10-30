@@ -1,3 +1,5 @@
+### Galactic_Warfare_DB
+
 1. Lea el siguiente enunciado y obtenga las entidades y relaciones que formarán el modelo de datos y su posterior implementación.
 
    "¡Bienvenidos a 'Galactic Warfare', un emocionante videojuego que te llevará a las profundidades del espacio exterior en una guerra intergaláctica llena de desafíos y aventuras, donde las naves espaciales son las protagonistas!
